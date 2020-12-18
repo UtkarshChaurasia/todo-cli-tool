@@ -1,0 +1,16 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "window.zoomLevel": 0,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "http.proxySupport": "off",
+    "git.suggestSmartCommit": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.editor.enablePreview": false,
+    "debug.openDebug": "openOnDebugBreak",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme"
+}
